@@ -2,6 +2,20 @@
 
 https://youtu.be/rfscVS0vtbw
 
+## Writing python
+
+### Installation
+
+- python
+  - https://www.python.org/
+  - 安裝時選取"add to path"
+- vscode
+  - https://code.visualstudio.com
+
+### Online alternative
+
+- https://replit.com/languages/python3
+
 ## Learning Resources
 
 - 官方文件
@@ -9,15 +23,17 @@ https://youtu.be/rfscVS0vtbw
 - 教學 - 語法, 觀念
   - https://www.freecodecamp.org/
   - https://www.youtube.com/c/Coreyms/playlists
-- 教學 - 主題
+- 教學 - 按照主題
   - https://realpython.com/
   - https://www.youtube.com/c/mCodingWithJamesMurphy
 - 免費線上書籍(不限於 python)
   - https://github.com/EbookFoundation/free-programming-books
 - 框架, 函式庫, 學習資源
   - https://github.com/vinta/awesome-python
-- More
+- 更多python相關
   - https://github.com/search?q=python
+- 推薦頻道(每週更新，介紹各種程式語言和網頁相關技術)
+  - https://youtube.com/c/Fireship
 
 ## Google Search Tips / Dos and Don'ts
 
